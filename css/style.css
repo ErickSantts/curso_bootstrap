@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #BAE4F8!important;
+}
+
+.quem-somos {
+    background-color: #4DBBE2!important;
+}
+
+.margin {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: cornflowerblue !important;
+}
+
+.parceiros-lobo {
+    height: 300px;
+    width: 300px;
+}
+
+.parceiros-imagens {
+    width: 100%;
+}
+
+.imagem-servicos {
+    width: 100%;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.bg-footer {
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
